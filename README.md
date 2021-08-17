@@ -1,7 +1,4 @@
-# spider_squeegee
-Stupid Web Tricks with Python, Webdriver, BS4 and more
-
-## What Does What: 
+# Japanese Rave
 
 ### Tokyo_Rave_Images.py
 
@@ -23,13 +20,3 @@ Using Beautiful Soup, Webdriver and your local browser, this thing opens an onli
 - The selenium library for python (pip install selenium)
 - The latest version of Chrome Driver (see: http://chromedriver.chromium.org/downloads)
 - Chrome Driver binary must be present in either /usr/bin, /usr/local/bin or otherwise referenced in your system PATH before running this script. 
-
-### Fun_with_apis.py
-
-What it do: 
-
-Pokes the Yelp.com API  with a stick.
-
-### To Do: 
-
-- Coming Soon!
